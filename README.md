@@ -1,3 +1,3 @@
 ## Everybody Codes
 
-My solutions to [everybody.codes](everybody.codes) quests.
+My solutions to [everybody.codes](https://everybody.codes) quests.
